@@ -1,1 +1,1 @@
-# Beautiful-Image-Product
+แก้ไข ไฟล์ config.php ที่อยู่ใน folder DB เพื่อเชื่อมต่อ Database 
